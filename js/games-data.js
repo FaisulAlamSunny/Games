@@ -110,11 +110,12 @@ var gamesData = [
     },
     {
         id: 13,
-        title: "GALAGA CHAMPIONS",
-        type: ["action", "single"],
-        description: "Defeat waves of alien enemies in this space shooter classic.",
-        thumbnail: "https://images.unsplash.com/photo-1560253023-3ec5d502959f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        link: "#"
+        title: "Roll the Dice",
+        type: ["classic", "2player"],
+        description: "Roll, risk, repeat! First to 69 wins - but don't bust or lose it all!",
+        thumbnail: "assets/images/13.jpg",
+        link: "https://faisulalam.netlify.app/games/roll-the-dice",
+        target: "_blank"
     },
     {
         id: 14,
