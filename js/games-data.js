@@ -119,10 +119,20 @@ var gamesData = [
     },
     {
         id: 14,
-        title: "GALAGA CHAMPIONS",
-        type: ["action", "single"],
-        description: "Defeat waves of alien enemies in this space shooter classic.",
-        thumbnail: "https://images.unsplash.com/photo-1560253023-3ec5d502959f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        link: "#"
+        title: "Pink Ice",
+        type: ["single", "Puzzle"],
+        description: "Slide on pink ice, dodge obstacles, reach the goal—challenging puzzles await!",
+        thumbnail: "assets/images/13.jpg",
+        link: "https://faisulalam.netlify.app/games/pink-ice",
+        target: "_blank"
+    },
+    {
+        id: 15,
+        title: "Stickman fight",
+        type: ["action", "2player"],
+        description: "Battle stickmen, punch, jump, and KO your opponent in this fast-paced 2D fighter!",
+        thumbnail: "assets/images/13.jpg",
+        link: "https://faisulalam.netlify.app/games/stickman",
+        target: "_blank"
     }
 ];
