@@ -120,7 +120,7 @@ var gamesData = [
     {
         id: 14,
         title: "Pink Ice",
-        type: ["single", "Puzzle"],
+        type: ["single", "puzzle"],
         description: "Slide on pink ice, dodge obstacles, reach the goal—challenging puzzles await!",
         thumbnail: "assets/images/14.jpg",
         link: "https://faisulalam.netlify.app/games/pink-ice",
