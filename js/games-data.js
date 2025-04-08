@@ -122,7 +122,7 @@ var gamesData = [
         title: "Pink Ice",
         type: ["single", "Puzzle"],
         description: "Slide on pink ice, dodge obstacles, reach the goal—challenging puzzles await!",
-        thumbnail: "assets/images/13.jpg",
+        thumbnail: "assets/images/14.jpg",
         link: "https://faisulalam.netlify.app/games/pink-ice",
         target: "_blank"
     },
@@ -131,7 +131,7 @@ var gamesData = [
         title: "Stickman fight",
         type: ["action", "2player"],
         description: "Battle stickmen, punch, jump, and KO your opponent in this fast-paced 2D fighter!",
-        thumbnail: "assets/images/13.jpg",
+        thumbnail: "assets/images/15.jpg",
         link: "https://faisulalam.netlify.app/games/stickman",
         target: "_blank"
     }
