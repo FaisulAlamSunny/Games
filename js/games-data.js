@@ -66,10 +66,10 @@ var gamesData = [
     {
         id: 8,
         title: "Snake Game",
-        type: ["classic", "single"],
+        type: ["classic", "2player"],
         description: "Guide the snake to eat and grow without crashing into walls.",
         thumbnail: "assets/images/8.jpg",
-        link: "https://faisulalam.netlify.app/games/snake%20game",
+        link: "https://faisulalam.netlify.app/games/Snake-game-2P.html",
         target: "_blank"
     },
     {
