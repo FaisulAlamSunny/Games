@@ -140,7 +140,7 @@ var gamesData = [
         title: "Pawn vs King",
         type: ["puzzle", "2player"],
         description: "Strategic chess variant: One king battles eight pawns with standard moves. Capture or block to win!",
-        thumbnail: "assets/images/15.jpg",
+        thumbnail: "assets/images/16.jpg",
         link: "https://faisulalam.netlify.app/games/pawn-vs-king",
         target: "_blank"
     }
